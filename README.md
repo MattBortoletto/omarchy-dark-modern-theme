@@ -13,8 +13,10 @@ omarchy-theme-install https://github.com/MattBortoletto/omarchy-dark-modern-them
 
 ## Wallpapers
 
+| | |
 | --- | --- |
 | ![](backgrounds/1-black.png) | ![](backgrounds/omarchy.png)
+
 
 ## Attribution
 
