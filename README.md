@@ -14,13 +14,6 @@ omarchy-theme-install https://github.com/MattBortoletto/omarchy-dark-modern-them
 ```
 
 
-## Wallpapers
-
-| | |
-| --- | --- |
-| ![](backgrounds/1-black.png) | ![](backgrounds/omarchy.png)
-
-
 ## Attribution
 
 - VSCode theme for neovim by Mofiqul: https://github.com/Mofiqul/vscode.nvim
