@@ -1,6 +1,8 @@
 # Dark Modern theme for Omarchy
 
 Simple theme for [Omarchy](https://omarchy.org/) based on the classic Dark Modern theme for VSCode.
+
+
 ![screenshot](assets/screenshot.jpg)
 
 
