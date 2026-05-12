@@ -3,7 +3,7 @@
 Simple theme for [Omarchy](https://omarchy.org/) based on the classic Dark Modern theme for VSCode.
 
 
-![preview](preview.jpg)
+![preview](preview.png)
 
 
 ## Quick start
