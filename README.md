@@ -2,7 +2,6 @@
 
 Simple theme for [Omarchy](https://omarchy.org/) based on the classic Dark Modern theme for VSCode.
 
-![preview-unlock](preview-unlock.png)
 ![preview](preview.png)
 
 
