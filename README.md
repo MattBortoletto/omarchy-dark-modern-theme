@@ -6,7 +6,7 @@ Simple theme for [Omarchy](https://omarchy.org/) based on the classic Dark Moder
 
 
 ## Quick start
-Run the installer and it will place everything where it belongs:
+Simply run:
 
 ```bash
 omarchy-theme-install https://github.com/MattBortoletto/omarchy-dark-modern-theme
